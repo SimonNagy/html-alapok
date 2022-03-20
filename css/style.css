@@ -1,0 +1,13 @@
+.container {
+    border: solid black 1px;
+}
+
+.felsoszoveg {
+    font-size: large;
+    color: black;
+}
+
+.alsoszoveg {
+    font-size: medium;
+    color: aqua;
+}
